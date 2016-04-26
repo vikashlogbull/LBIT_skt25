@@ -2,6 +2,10 @@ DUMMY ADDED BY ASHISH:
 ---------------------
 
 Added complete!!!
+ 24  * Know your rights when using Drupal:
+ 25    See LICENSE.txt in the same directory as this document.
+ 26  * Learn about the Drupal trademark and logo policy:
+ 27    http://drupal.com/trademark
 CONTENTS OF THIS FILE
 ---------------------
 
