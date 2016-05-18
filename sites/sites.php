@@ -52,6 +52,7 @@
  * @see default.settings.php
  * @see conf_path()
  * @see http://drupal.org/documentation/install/multi-site
+ * Added by mayank for testing (Dev server file)
  */
 
 $sites['mayank17maycid4site10.evolverinc.tech'] = 'all';
