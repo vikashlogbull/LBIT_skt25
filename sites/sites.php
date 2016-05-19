@@ -56,3 +56,5 @@
  */
 
 $sites['mayank17maycid4site10.evolverinc.tech'] = 'all';
+$sites['mayank17maycid4site10-subsite1'] = 'mayank17maycid4site10-subsite1.evolverinc.tech';
+$sites['mayank17maycid4site10-subsite2'] = 'mayank17maycid4site10-subsite2.evolverinc.tech';
